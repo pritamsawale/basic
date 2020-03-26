@@ -1,1 +1,2 @@
 this file is created after 1st merge and hence it is present only in firstbranch
+# it is now modified just to show we can directly commit a existing file if it is modified and there is no need to add it in index
