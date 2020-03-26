@@ -1,0 +1,2 @@
+it is new file created for rebasing example
+it is present in first branch before rebasing
